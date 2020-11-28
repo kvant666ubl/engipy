@@ -56,3 +56,9 @@ Install well-known library for creating static and interactive visualizations in
 $ pip3 install matplotlib
 $ pip3 install prettytable
 ```
+
+## Example
+Here is an example below, describes ```R(t)```, ```MTBF```, ```MTTF```, and ```MTTR``` calculation of 
+```sh
+$ python3 main.py
+```
